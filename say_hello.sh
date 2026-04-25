@@ -1,2 +1,5 @@
 #!/bin/bash
-echo "hello from git"
+echo "hello from gitttt"
+echo "hello from gitttt"
+echo "hello from gitttt"
+echo "hello from gitttt"
